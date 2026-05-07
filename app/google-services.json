@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889319574438",
+    "project_id": "adaptivequiz-d8de9",
+    "storage_bucket": "adaptivequiz-d8de9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889319574438:android:cf63d4f849979c4e3b1d67",
+        "android_client_info": {
+          "package_name": "com.example.adaptivegamifiedlearningsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2iviz9BPeNvMYlfrXRfJlOsYBZQBAyCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
